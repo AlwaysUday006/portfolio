@@ -1,0 +1,29 @@
+{
+  "social_links": [
+    { "name": "GitHub", "url": "https://github.com/AlwaysUday006", "usage": ["Hero.tsx", "Contact.tsx", "Footer.tsx"] },
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/in/uday-deore-5949bb32a", "usage": ["Hero.tsx", "Contact.tsx", "Footer.tsx"] },
+    { "name": "Email", "url": "mailto:udaydeore006@gmail.com", "usage": ["Hero.tsx", "Footer.tsx"] }
+  ],
+  "project_links": [
+    { "title": "Vigenère Cipher Tool", "github": "https://github.com/AlwaysUday006/cipher_project", "demo": "https://alwaysuday006-cipher-project-app-uqhd8o.streamlit.app/" },
+    { "title": "Luhn Validator", "github": "https://github.com/AlwaysUday006/luhn_validator_project", "demo": "https://alwaysuday006-luhn-algorithm-app-056.streamlit.app/" },
+    { "title": "Expense Tracker", "github": "https://github.com/AlwaysUday006/expense_tracker", "demo": "https://alwaysuday006-expense-tracker-app-hxkusf.streamlit.app/" },
+    { "title": "Case Converter Utility", "github": "https://github.com/AlwaysUday006/PascalCase-to-snake_case-Converter.git", "demo": "https://alwaysuday006-pascalcase-to-snake-case-converter-app-zyccqn.streamlit.app/" },
+    { "title": "Square Root Finder", "github": "https://github.com/AlwaysUday006/sqrt_by_bisection.git", "demo": "https://alwaysuday006-sqrt-by-bisection-app-o4nyqa.streamlit.app/" },
+    { "title": "Arithmetic Formatter", "github": "https://github.com/AlwaysUday006/arithmetic_formatter.git", "demo": "https://alwaysuday006-arithmetic-formatter-app-y3tbrj.streamlit.app/" },
+    { "title": "Password Generator", "github": "https://github.com/AlwaysUday006/password_generator.git", "demo": "https://alwaysuday006-password-generator-app-uj6mmb.streamlit.app/" },
+    { "title": "Dijkstra Path Finder", "github": "https://github.com/AlwaysUday006/shortest_path_algorithm.git", "demo": "https://alwaysuday006-shortest-path-algorithm-app-xf0tpb.streamlit.app/" }
+  ],
+  "certificate_links": [
+    { "title": "Programming in C", "credentialUrl": "https://drive.google.com/file/d/1JdJEtRkMWYGpx726pPpZYuC95dFfJG4y/view?usp=sharing" },
+    { "title": "Generative AI Mastermind", "credentialUrl": "https://drive.google.com/file/d/1r0iUJ7tCABNZ6khRPUL8iNqqOUgqpKmp/view?usp=sharing" },
+    { "title": "C++ Bootcamp", "credentialUrl": "https://drive.google.com/file/d/161vkOHNOyHoT42yaZ73wea5IFWrpoBSt/view?usp=sharing" }
+  ],
+  "internal_routes": [
+    { "name": "Home", "hash": "#home" },
+    { "name": "About", "hash": "#about" },
+    { "name": "Projects", "hash": "#project" },
+    { "name": "Certifications", "hash": "#certs" },
+    { "name": "Contact", "hash": "#contact" }
+  ]
+}

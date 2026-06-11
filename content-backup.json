@@ -1,0 +1,109 @@
+{
+  "personal": {
+    "name": "Uday Deore",
+    "role": [
+      "Python Developer",
+      "AI Project Builder",
+      "Algorithm Enthusiast",
+      "B.Tech Student"
+    ],
+    "location": "Maharashtra, India",
+    "availability": "Available for Collaborations",
+    "email": "udaydeore006@gmail.com"
+  },
+  "hero": {
+    "greeting": "Hi, I'm Uday",
+    "intro_paragraph": "I focus on Python programming and AI-related projects, building functional applications that bridge mathematical logic and clean web UI.",
+    "status_badge": "B.Tech Student & Python Enthusiast"
+  },
+  "about": {
+    "heading": "Building Meaningful Digital Experiences",
+    "paragraph_1": "I'm Uday Deore, a B.Tech Computer Science student currently in my second year. I have a strong interest in Python programming and AI-driven workflows. I enjoy learning by doing—building practical utilities like cryptographic tools, expense trackers, and interactive algorithm visualizers.",
+    "paragraph_2": "My core objective is to master Python ecosystem capabilities, exploring data science, machine learning algorithms, and system automation. I believe in continuous optimization, open-source principles, and showcasing projects to exchange knowledge with the developer community.",
+    "focus_cards": [
+      {
+        "title": "Focus Area",
+        "description": "Python, C, Streamlit, Algorithms, Data Analysis"
+      },
+      {
+        "title": "Education",
+        "description": "B.Tech Computer Science (2nd Year)"
+      },
+      {
+        "title": "Projects Built",
+        "description": "Completed 8+ practical programs & tools"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "🔐 Vigenère Cipher Tool",
+      "description": "A Python-based cryptographic tool utilizing the Vigenère cipher for interactive text encoding and decoding.",
+      "tags": ["Python", "Streamlit", "Cryptography"]
+    },
+    {
+      "title": "💳 Luhn Validator",
+      "description": "An interactive validator script that implements the Luhn algorithm to check credit card and identification numbers.",
+      "tags": ["Python", "Streamlit", "Validation"]
+    },
+    {
+      "title": "💰 Expense Tracker",
+      "description": "A modern tracking application enabling users to log, tag, and analyze daily expenses via an interactive dashboard.",
+      "tags": ["Python", "Streamlit", "Data Logs"]
+    },
+    {
+      "title": "📝 Case Converter Utility",
+      "description": "A utility that parses and converts PascalCase or camelCase formatted strings into clean PEP 8 compliant snake_case.",
+      "tags": ["Python", "Streamlit", "Strings"]
+    },
+    {
+      "title": "🧮 Square Root Finder",
+      "description": "An educational algorithm visualizer calculating numerical square roots to custom decimal positions using the Bisection Method.",
+      "tags": ["Python", "Streamlit", "Algorithms"]
+    },
+    {
+      "title": "🧮 Arithmetic Formatter",
+      "description": "Neatly reformats multi-line math problems side-by-side with vertical alignment structures and togglable answers.",
+      "tags": ["Python", "Streamlit", "Mathematics"]
+    },
+    {
+      "title": "🔐 Password Generator",
+      "description": "A randomized key utility that generates customizable, cryptographically strong passwords based on rules.",
+      "tags": ["Python", "Streamlit", "Security"]
+    },
+    {
+      "title": "🧭 Dijkstra Path Finder",
+      "description": "An interactive graphs visualizer that builds node path flows and calculates shortest distance solutions using Dijkstra's algorithm.",
+      "tags": ["Python", "Streamlit", "Graph Theory", "Dijkstra"]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Programming in C",
+      "issuer": "Infosys | Springboard",
+      "date": "June 12, 2025",
+      "description": "Comprehensive certification covering core C programming syntax, memory management, pointers, and computational algorithms."
+    },
+    {
+      "title": "Generative AI Mastermind",
+      "issuer": "Outskill (GrowthSchool)",
+      "date": "April 2025",
+      "description": "Mastery in building custom AI-powered utilities, crafting advanced system prompts, and optimizing LLM agents for code generation."
+    },
+    {
+      "title": "C++ Bootcamp",
+      "issuer": "LetsUpgrade (NSDC)",
+      "date": "April 4, 2025",
+      "description": "Intensive Bootcamp covering object-oriented programming concepts in C++, data structures, and runtime efficiency analyses."
+    }
+  ],
+  "contact": {
+    "heading": "Get in Touch",
+    "description": "Have an interesting project proposal or questions about my Python builds? Drop a message below!",
+    "text": "I'm always open to discuss internship opportunities, custom scripts, algorithmic designs, or system integrations. Let's build something exceptional!"
+  },
+  "footer": {
+    "name": "UDAY DEORE",
+    "copyright": "© 2026 Uday Deore. All Rights Reserved."
+  }
+}

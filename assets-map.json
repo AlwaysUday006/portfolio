@@ -1,0 +1,44 @@
+{
+  "images": [
+    {
+      "name": "hero.png",
+      "path": "src/assets/hero.png",
+      "usage": ["About.tsx", "Hero.tsx"]
+    },
+    {
+      "name": "img.jpg",
+      "url": "https://stalwart-baklava-8ed433.netlify.app/images/img.jpg",
+      "usage": "About.tsx"
+    },
+    {
+      "name": "img2.jpg",
+      "url": "https://stalwart-baklava-8ed433.netlify.app/images/img2.jpg",
+      "usage": "Hero.tsx"
+    },
+    {
+      "name": "Programming_in_C_Uday_Deore_page-0001.jpg",
+      "url": "https://ik.imagekit.io/alwaysuday/Programming_in_C_Uday_Deore_page-0001.jpg?updatedAt=1760869951203",
+      "usage": "Certifications.tsx"
+    },
+    {
+      "name": "Generative AI Mastermind by Outskill_page-0001.jpg",
+      "url": "https://ik.imagekit.io/alwaysuday/Generative%20AI%20Mastermind%20by%20Outskill_page-0001.jpg",
+      "usage": "Certifications.tsx"
+    },
+    {
+      "name": "C++ Bootcamp by LU_page-0001.jpg",
+      "url": "https://ik.imagekit.io/alwaysuday/C++%20Bootcamp%20by%20LU_page-0001.jpg",
+      "usage": "Certifications.tsx"
+    }
+  ],
+  "icons_and_favicons": [
+    { "name": "favicon.ico", "path": "public/favicon.ico" },
+    { "name": "apple-touch-icon.png", "path": "public/apple-touch-icon.png" },
+    { "name": "favicon-32x32.png", "path": "public/favicon-32x32.png" },
+    { "name": "favicon-16x16.png", "path": "public/favicon-16x16.png" },
+    { "name": "favicon.svg", "path": "public/favicon.svg" },
+    { "name": "icon-192x192.png", "path": "public/icon-192x192.png" },
+    { "name": "icon-512x512.png", "path": "public/icon-512x512.png" },
+    { "name": "icons.svg", "path": "public/icons.svg" }
+  ]
+}
